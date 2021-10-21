@@ -1,4 +1,4 @@
-# sc-realty
+# Evgeny PhD based on the Steiner AG - Swiss Realty Project
 
 The Project is based on the Swiss Realty Token Repository
 
