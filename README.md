@@ -1,4 +1,4 @@
-# Evgeny PhD based on the Steiner AG - Swiss Realty Project
+# Evgeny PhD based on the Steiner AG - Swiss Realty Project (Developer: Mikael Gross)
 
 The Project is based on the Swiss Realty Token Repository
 
